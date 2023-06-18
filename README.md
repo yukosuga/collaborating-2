@@ -1,12 +1,18 @@
 # Collaborating Practice 👩‍💻
-## How do you say in your language?🌏
-### 1. Good morning
-🇯🇵 Ohayo
-### 2. Good bye
-🇯🇵 Sayonara
-### 3. Thank you
-🇯🇵 Arigato
-### 4. How are you?
-🇯🇵 Genki desuka?
-### 5. See you!
-🇯🇵 Matane!
+## How do you say in your language? 🌏
+### 🇯🇵 Japan
+1. Good morning
+- Ohayo
+- おはよう
+2. Good bye
+- Sayonara
+- さよなら
+3. Thank you
+- Arigato
+- ありがとう
+4. How are you?
+- Genki desuka?
+- げんきですか？
+5. See you!
+- Matane!
+- またね！
