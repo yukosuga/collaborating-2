@@ -1,6 +1,6 @@
 # Collaborating Practice 👩‍💻
 ## How do you say in your language? 🌏
-### 🇯🇵 Japan
+### 🇯🇵 Japanese
 1. Good morning
 - Ohayo
 - おはよう
