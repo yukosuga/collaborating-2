@@ -1,18 +1,36 @@
 # Collaborating Practice 👩‍💻
 ## How do you say in your language? 🌏
-### 🇯🇵 Japanese
-1. Good morning
+### 1. Good morning
+#### 🇯🇵 Japanese
 - Ohayo
 - おはよう
-2. Good bye
+#### 🇵🇰 Urdu
+- صبح بخیر
+
+### 2. Good bye
+#### 🇯🇵 Japanese
 - Sayonara
 - さよなら
-3. Thank you
+#### 🇵🇰 Urdu
+- خدا حافظ
+
+### 3. Thank you
+#### 🇯🇵 Japanese
 - Arigato
 - ありがとう
-4. How are you?
+#### 🇵🇰 Urdu
+- شکریہ
+
+### 4. How are you?
+#### 🇯🇵 Japanese
 - Genki desuka?
 - げんきですか？
-5. See you!
+#### 🇵🇰 Urdu
+- آپ کیسے ہو
+
+### 5. See you!
+#### 🇯🇵 Japanese
 - Matane!
 - またね！
+#### 🇵🇰 Urdu
+- ملتے ہیں۔
